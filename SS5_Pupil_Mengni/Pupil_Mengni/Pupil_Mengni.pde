@@ -11,7 +11,7 @@ int x=0;
 int y=0;
 
 void setup() {
-  size(600,360);
+  size(640,360);
 //Initialize Movie object
 
 movie = new Movie(this, "eye.m4v"); 
