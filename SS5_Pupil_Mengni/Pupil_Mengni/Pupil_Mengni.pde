@@ -1,6 +1,6 @@
 //Pupil_Mengni
+//try to put mouse at right of left side of canvas
 
-boolean recording = false;
 
 import processing.video.*;
 
